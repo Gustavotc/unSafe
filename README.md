@@ -35,7 +35,7 @@ unSafe
 
 ## Android APK 
 
-- If you want to download and play it in any Android device, just install the follow APK:
+- If you want to download and play it in any Android device, just install the follow APK:<br>
 https://1drv.ms/u/s!ArcQYw1iL8MagP9vl70aLC-54UVsuw?e=7X3jwQ
 
 - If you want to download and play it on Windows: <br>
