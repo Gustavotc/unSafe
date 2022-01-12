@@ -26,14 +26,15 @@ unSafe
 
 - **C#** — Language used to develop the app.
 - **Unity** — IDE used to develop the project.
+- **Data persistence** (scores, settings)
 
 
 ## Getting started
 
-- Donwload this repository
+- Git clone this repository
 - Open it on Unity 
 
-## Android APK 
+## Download
 
 - If you want to download and play it in any Android device, just install the follow APK:<br>
 https://1drv.ms/u/s!ArcQYw1iL8MagP9vl70aLC-54UVsuw?e=7X3jwQ
